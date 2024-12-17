@@ -5,10 +5,25 @@ repo: upptime # The name of this repository
 sites:
   - name: EBI HTTP
     url: http://ftp.ebi.ac.uk/robots.txt
+    check: custom
+    custom:
+        sript: ./monitor.sh
+        args:
+          - http://ftp.ebi.ac.uk/robots.txt
   - name: EBI HTTPS
     url: https://ftp.ebi.ac.uk/robots.txt
+    check: custom
+    custom:
+        sript: ./monitor.sh
+        args:
+          - https://ftp.ebi.ac.uk/robots.txt
   - name: EBI FTP
     url: ftp://ftp.ebi.ac.uk/robots.txt
+    check: custom
+    custom:
+        sript: ./monitor.sh
+        args:
+          - ftp://ftp.ebi.ac.uk/robots.txt
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
