@@ -14,7 +14,7 @@
 # * More by Anand Chowdhary: https://anandchowdhary.com
 
 
-name: Graphs CI 
+name: Graphs CI
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -37,4 +37,3 @@ jobs:
           command: "graphs"
         env:
           GH_PAT: ${{ secrets.GH_PAT || github.token }}
-
