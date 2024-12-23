@@ -40,7 +40,7 @@
     "url": "ftp://ftp.ebi.ac.uk/robots.txt",
     "icon": "https://icons.duckduckgo.com/ip3/ftp.ebi.ac.uk.ico",
     "slug": "ebi-ftp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 1129,
     "timeMonth": 1129,
     "timeYear": 1129,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-23": 0
+    }
   },
   {
     "name": "Wikipedia",
