@@ -22,19 +22,19 @@
     "url": "https://ftp.ebi.ac.uk/robots.txt",
     "icon": "https://icons.duckduckgo.com/ip3/ftp.ebi.ac.uk.ico",
     "slug": "ebi-https",
-    "status": "down",
-    "uptime": "98.62%",
-    "uptimeDay": "90.50%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "98.62%",
-    "uptimeYear": "98.62%",
-    "time": 537,
-    "timeDay": 520,
-    "timeWeek": 537,
-    "timeMonth": 537,
-    "timeYear": 537,
+    "status": "up",
+    "uptime": "98.03%",
+    "uptimeDay": "86.32%",
+    "uptimeWeek": "98.03%",
+    "uptimeMonth": "98.03%",
+    "uptimeYear": "98.03%",
+    "time": 519,
+    "timeDay": 469,
+    "timeWeek": 519,
+    "timeMonth": 519,
+    "timeYear": 519,
     "dailyMinutesDown": {
-      "2024-12-24": 137
+      "2024-12-24": 197
     }
   },
   {
