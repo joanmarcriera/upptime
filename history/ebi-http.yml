@@ -1,7 +1,7 @@
 url: http://ftp.ebi.ac.uk/robots.txt
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-11T11:50:43.966Z
+status: up
+code: 200
+responseTime: 655
+lastUpdated: 2025-01-11T12:21:28.100Z
 startTime: 2024-12-17T23:08:17.042Z
 generator: Upptime <https://github.com/upptime/upptime>
