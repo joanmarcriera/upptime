@@ -28,7 +28,7 @@
     "url": "https://ftp.ebi.ac.uk/robots.txt",
     "icon": "https://icons.duckduckgo.com/ip3/ftp.ebi.ac.uk.ico",
     "slug": "ebi-https",
-    "status": "up",
+    "status": "down",
     "uptime": "98.64%",
     "uptimeDay": "96.91%",
     "uptimeWeek": "98.27%",
@@ -40,6 +40,7 @@
     "timeMonth": 816,
     "timeYear": 854,
     "dailyMinutesDown": {
+      "2025-05-16": 0,
       "2025-05-15": 44,
       "2025-05-13": 130,
       "2025-04-17": 99,
