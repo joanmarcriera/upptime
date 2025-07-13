@@ -34,16 +34,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ftp.ebi.ac.uk.ico",
     "slug": "ebi-https",
     "status": "down",
-    "uptime": "98.44%",
-    "uptimeDay": "52.00%",
+    "uptime": "98.45%",
+    "uptimeDay": "51.99%",
     "uptimeWeek": "90.69%",
     "uptimeMonth": "96.76%",
-    "uptimeYear": "98.44%",
-    "time": 815,
-    "timeDay": 957,
-    "timeWeek": 782,
-    "timeMonth": 714,
-    "timeYear": 815,
+    "uptimeYear": "98.45%",
+    "time": 817,
+    "timeDay": 960,
+    "timeWeek": 789,
+    "timeMonth": 723,
+    "timeYear": 817,
     "dailyMinutesDown": {
       "2025-07-13": 511,
       "2025-07-12": 320,
@@ -79,7 +79,7 @@
       "2025-01-09": 336,
       "2024-12-30": 28,
       "2024-12-25": 87,
-      "2024-12-24": 266
+      "2024-12-24": 246
     }
   },
   {
