@@ -34,12 +34,12 @@
     "url": "https://ftp.ebi.ac.uk/robots.txt",
     "icon": "https://icons.duckduckgo.com/ip3/ftp.ebi.ac.uk.ico",
     "slug": "ebi-https",
-    "status": "up",
-    "uptime": "98.47%",
-    "uptimeDay": "91.23%",
+    "status": "down",
+    "uptime": "98.48%",
+    "uptimeDay": "91.22%",
     "uptimeWeek": "93.15%",
     "uptimeMonth": "94.07%",
-    "uptimeYear": "98.47%",
+    "uptimeYear": "98.48%",
     "time": 838,
     "timeDay": 918,
     "timeWeek": 1651,
@@ -74,7 +74,7 @@
       "2025-03-17": 141,
       "2025-03-16": 223,
       "2025-03-14": 302,
-      "2025-03-13": 407
+      "2025-03-13": 362
     }
   },
   {
