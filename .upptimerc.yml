@@ -25,7 +25,7 @@ sites:
         args:
           - ftp://ftp.ebi.ac.uk/robots.txt
   - name: EBI FTP Private
-    url: ftp://ftp-private.ebi.ac.uk/robots.txt
+    url: ftp://ftp-private.ebi.ac.uk/
     check: custom
     custom:
         sript: ./monitor.sh
