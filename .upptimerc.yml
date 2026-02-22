@@ -24,13 +24,6 @@ sites:
         sript: ./monitor.sh
         args:
           - ftp://ftp.ebi.ac.uk/robots.txt
-  - name: EBI FTP Private
-    url: ftp://ftp-private.ebi.ac.uk/
-    check: custom
-    custom:
-        sript: ./monitor.sh
-        args:
-          - ftp://ftp-private.ebi.ac.uk/robots.txt
   - name: Wikipedia
     url: https://en.wikipedia.org
   - name: Hacker News
