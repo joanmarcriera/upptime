@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
-    "time": 1410,
-    "timeDay": 646,
-    "timeWeek": 949,
-    "timeMonth": 891,
-    "timeYear": 1447,
+    "time": 1413,
+    "timeDay": 2647,
+    "timeWeek": 1125,
+    "timeMonth": 941,
+    "timeYear": 1452,
     "dailyMinutesDown": {
       "2026-01-23": 137,
       "2026-01-22": 542,
@@ -37,8 +37,7 @@
       "2025-06-06": 33,
       "2025-06-05": 69,
       "2025-03-17": 31,
-      "2025-03-13": 207,
-      "2025-02-26": 34
+      "2025-03-13": 207
     }
   },
   {
@@ -47,16 +46,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ftp.ebi.ac.uk.ico",
     "slug": "ebi-https",
     "status": "up",
-    "uptime": "99.16%",
+    "uptime": "99.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.01%",
-    "time": 787,
-    "timeDay": 545,
-    "timeWeek": 647,
-    "timeMonth": 565,
-    "timeYear": 777,
+    "time": 790,
+    "timeDay": 2820,
+    "timeWeek": 854,
+    "timeMonth": 634,
+    "timeYear": 781,
     "dailyMinutesDown": {
       "2025-08-05": 333,
       "2025-08-02": 248,
@@ -101,10 +100,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
     "time": 1483,
-    "timeDay": 1231,
-    "timeWeek": 1454,
-    "timeMonth": 1339,
-    "timeYear": 1497,
+    "timeDay": 1274,
+    "timeWeek": 1457,
+    "timeMonth": 1338,
+    "timeYear": 1496,
     "dailyMinutesDown": {
       "2026-01-22": 160,
       "2026-01-21": 68,
@@ -132,8 +131,7 @@
       "2025-06-06": 32,
       "2025-06-05": 68,
       "2025-05-08": 22,
-      "2025-03-17": 18,
-      "2025-02-26": 21
+      "2025-03-17": 18
     }
   },
   {
@@ -148,9 +146,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 232,
-    "timeDay": 103,
-    "timeWeek": 255,
-    "timeMonth": 212,
+    "timeDay": 101,
+    "timeWeek": 232,
+    "timeMonth": 208,
     "timeYear": 235,
     "dailyMinutesDown": {
       "2025-12-03": 16
@@ -167,11 +165,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 313,
-    "timeDay": 394,
-    "timeWeek": 273,
-    "timeMonth": 294,
-    "timeYear": 317,
+    "time": 314,
+    "timeDay": 420,
+    "timeWeek": 280,
+    "timeMonth": 295,
+    "timeYear": 318,
     "dailyMinutesDown": {
       "2025-12-17": 34,
       "2025-06-28": 17,
