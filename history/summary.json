@@ -11,9 +11,9 @@
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.70%",
     "time": 1367,
-    "timeDay": 665,
-    "timeWeek": 919,
-    "timeMonth": 862,
+    "timeDay": 1323,
+    "timeWeek": 911,
+    "timeMonth": 875,
     "timeYear": 1263,
     "dailyMinutesDown": {
       "2026-04-08": 51,
@@ -45,15 +45,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/ftp.ebi.ac.uk.ico",
     "slug": "ebi-https",
     "status": "up",
-    "uptime": "99.15%",
+    "uptime": "99.16%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.83%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "97.39%",
-    "uptimeYear": "99.03%",
+    "uptimeYear": "99.04%",
     "time": 771,
-    "timeDay": 564,
-    "timeWeek": 711,
-    "timeMonth": 643,
+    "timeDay": 801,
+    "timeWeek": 691,
+    "timeMonth": 639,
     "timeYear": 745,
     "dailyMinutesDown": {
       "2026-04-09": 621,
@@ -79,8 +79,7 @@
       "2025-05-22": 66,
       "2025-05-16": 164,
       "2025-05-15": 44,
-      "2025-05-13": 130,
-      "2025-04-17": 99
+      "2025-05-13": 130
     }
   },
   {
@@ -95,8 +94,8 @@
     "uptimeMonth": "98.19%",
     "uptimeYear": "99.59%",
     "time": 1485,
-    "timeDay": 967,
-    "timeWeek": 1456,
+    "timeDay": 1248,
+    "timeWeek": 1375,
     "timeMonth": 1415,
     "timeYear": 1512,
     "dailyMinutesDown": {
@@ -147,9 +146,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 181,
-    "timeWeek": 161,
-    "timeMonth": 187,
+    "timeDay": 259,
+    "timeWeek": 184,
+    "timeMonth": 185,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2025-12-03": 16
@@ -167,10 +166,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 310,
-    "timeDay": 307,
-    "timeWeek": 269,
+    "timeDay": 216,
+    "timeWeek": 286,
     "timeMonth": 307,
-    "timeYear": 312,
+    "timeYear": 311,
     "dailyMinutesDown": {
       "2025-12-17": 34,
       "2025-06-28": 17,
