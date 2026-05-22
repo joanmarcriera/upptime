@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.70%",
-    "time": 1341,
-    "timeDay": 872,
-    "timeWeek": 937,
-    "timeMonth": 881,
-    "timeYear": 1250,
+    "time": 1340,
+    "timeDay": 1081,
+    "timeWeek": 971,
+    "timeMonth": 895,
+    "timeYear": 1251,
     "dailyMinutesDown": {
       "2026-04-08": 51,
       "2026-01-23": 137,
@@ -45,16 +45,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ftp.ebi.ac.uk.ico",
     "slug": "ebi-https",
     "status": "up",
-    "uptime": "99.19%",
+    "uptime": "99.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.09%",
     "time": 763,
-    "timeDay": 511,
-    "timeWeek": 576,
-    "timeMonth": 599,
-    "timeYear": 719,
+    "timeDay": 423,
+    "timeWeek": 569,
+    "timeMonth": 592,
+    "timeYear": 718,
     "dailyMinutesDown": {
       "2026-05-01": 197,
       "2026-04-09": 621,
@@ -76,8 +76,7 @@
       "2025-06-20": 249,
       "2025-06-19": 136,
       "2025-06-06": 33,
-      "2025-06-05": 69,
-      "2025-05-22": 66
+      "2025-06-05": 69
     }
   },
   {
@@ -92,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.60%",
     "time": 1471,
-    "timeDay": 1437,
-    "timeWeek": 1198,
-    "timeMonth": 1237,
+    "timeDay": 971,
+    "timeWeek": 1227,
+    "timeMonth": 1225,
     "timeYear": 1503,
     "dailyMinutesDown": {
       "2026-04-13": 189,
@@ -143,10 +142,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 222,
-    "timeWeek": 153,
-    "timeMonth": 157,
-    "timeYear": 233,
+    "timeDay": 255,
+    "timeWeek": 184,
+    "timeMonth": 158,
+    "timeYear": 234,
     "dailyMinutesDown": {
       "2025-12-03": 16
     }
@@ -163,9 +162,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 313,
-    "timeDay": 420,
+    "timeDay": 393,
     "timeWeek": 309,
-    "timeMonth": 322,
+    "timeMonth": 325,
     "timeYear": 307,
     "dailyMinutesDown": {
       "2025-12-17": 34,
